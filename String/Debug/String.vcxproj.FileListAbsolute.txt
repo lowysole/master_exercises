@@ -1,0 +1,2 @@
+C:\Users\lowys\source\repos\master_exercises\String\Debug\String.exe
+C:\Users\lowys\source\repos\master_exercises\String\Debug\String.pdb

@@ -1,0 +1,13 @@
+﻿  Application.cpp
+  Main.cpp
+  ModuleAudio.cpp
+  ModuleFadeToBlack.cpp
+  ModuleInput.cpp
+  ModulePlayer.cpp
+  ModuleRender.cpp
+  ModuleSceneHonda.cpp
+  ModuleSceneKen.cpp
+  ModuleTextures.cpp
+  ModuleWindow.cpp
+  Generating Code...
+  SDL Game.vcxproj -> C:\Users\lowys\source\repos\master_exercises\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.exe

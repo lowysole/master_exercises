@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lowys\source\repos\master_exercises\Vector3\main.cpp(10,14): warning C4930: 'Vec3<float> a(void)': prototyped function not called (was a variable definition intended?)
+  Vector3.vcxproj -> C:\Users\lowys\source\repos\master_exercises\Vector3\Debug\Vector3.exe

@@ -1,0 +1,2 @@
+C:\Users\lowys\source\repos\master_exercises\Vector3\Debug\Vector3.exe
+C:\Users\lowys\source\repos\master_exercises\Vector3\Debug\Vector3.pdb

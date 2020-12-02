@@ -1,0 +1,4 @@
+C:\Users\lowys\Documents\Master\C++\01_Game_Structure\2DHomework\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.exe
+C:\Users\lowys\Documents\Master\C++\01_Game_Structure\2DHomework\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.pdb
+C:\Users\lowys\source\repos\master_exercises\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.exe
+C:\Users\lowys\source\repos\master_exercises\SDL Game 2 - Master - Handout\Debug\SDL Game - Master 1 Handout.pdb
